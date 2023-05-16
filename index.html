@@ -390,21 +390,22 @@
           />
         </div>
       </section>
-      <section class="contactform">
-        <article class="contactme" id="contactme">
-          <h2 class="cme">Contact me</h2>
-          <p class="pme">
-            If you have an application you are interested in developing, a
-            feature that you need built or a project that needs coding. I’d love
-            to help with it
+      <section class="bg-primary text-white h-100 container-fluid w-100 pt-5">
+        <article class="mt-5" id="contactme">
+          <h2 class="text-center mt-5">Contact me</h2>
+          <p class="text-center">
+            If you have an application you are interested in <br />
+            developing, a feature that you need built or a project <br />
+            that needs coding. I’d love to help with it!
           </p>
         </article>
         <form
-          class="form"
+          class="text-center"
           action="https://formspree.io/f/mnqydvzj"
           method="post"
         >
           <input
+            class="w-25 my-2"
             name="Name"
             id="name"
             type="text"
@@ -413,6 +414,7 @@
             required
           /><br />
           <input
+            class="w-25 my-2"
             name="Email"
             id="email"
             type="email"
@@ -420,14 +422,21 @@
             required
           /><br />
           <textarea
+            class="w-25 my-1"
             name="message"
             id="textarea"
             placeholder="Write your message here..."
             maxlength="500"
+            rows="5"
             required
           ></textarea
           ><br />
-          <button class="submitted" type="submit">Get in touch</button>
+          <button
+            class="my-4 bg-white text-primary border-0 h-50 rounded mb-5"
+            type="submit"
+          >
+            Get in touch
+          </button>
         </form>
         <div class="end"></div>
       </section>
