@@ -134,7 +134,7 @@ Github Pages
 - Twitter: [@msanemkckbayram](https://twitter.com/twitterhandle)
 - LinkedIn: [Meryem Sanem Kucukbayram](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author1**
+👤 **Author2**
 
 - GitHub: [@AbednegoKibitok](https://github.com/AbednegoKibitok)
 - Twitter: [@twitter](https://twitter.com/abedysongol)
